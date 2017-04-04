@@ -1,0 +1,14 @@
+An accuracy of 0.6 was acheived by a lmda = 1 and learningRate = 0.1
+An accuracy of 0.75 was acheived by a lmda = 0.3 and learningRate = 0.1
+An accuracy of 0.9 was acheived by a lmda = 0.1 and learningRate = 0.1
+An accuracy of 0.65 was acheived by a lmda = 1 and learningRate = 0.01
+An accuracy of 0.9 was acheived by a lmda = 0.3 and learningRate = 0.01
+An accuracy of 0.75 was acheived by a lmda = 0.1 and learningRate = 0.01
+An accuracy of 0.85 was acheived by a lmda = 1 and learningRate = 0.001
+An accuracy of 0.75 was acheived by a lmda = 0.3 and learningRate = 0.001
+An accuracy of 0.8 was acheived by a lmda = 0.1 and learningRate = 0.001
+An accuracy of 0.75 was acheived by a lmda = 1 and learningRate = 0.0001
+An accuracy of 0.75 was acheived by a lmda = 0.3 and learningRate = 0.0001
+An accuracy of 0.75 was acheived by a lmda = 0.1 and learningRate = 0.0001
+Best accuracy of 0.9 was acheived by a lmda = 0.3 and learningRate = 0.01
+Accuracy (Hinge Loss):	0.764705882353

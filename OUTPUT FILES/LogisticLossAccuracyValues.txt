@@ -1,0 +1,13 @@
+D:/OSU/Sem2/ML-5523/hw4_starter/yolo.py:124: RuntimeWarning: overflow encountered in exp
+  gradient += (-Y[i] * X[i]* (1 / np.exp(np.logaddexp(0, big_term))))
+An accuracy of 0.7 was acheived by a lmda = 1 and learningRate = 0.01
+An accuracy of 0.75 was acheived by a lmda = 0.3 and learningRate = 0.01
+An accuracy of 0.85 was acheived by a lmda = 0.1 and learningRate = 0.01
+An accuracy of 0.85 was acheived by a lmda = 1 and learningRate = 0.001
+An accuracy of 0.9 was acheived by a lmda = 0.3 and learningRate = 0.001
+An accuracy of 0.85 was acheived by a lmda = 0.1 and learningRate = 0.001
+An accuracy of 0.95 was acheived by a lmda = 1 and learningRate = 0.0001
+An accuracy of 0.95 was acheived by a lmda = 0.3 and learningRate = 0.0001
+An accuracy of 0.95 was acheived by a lmda = 0.1 and learningRate = 0.0001
+Best accuracy of 0.95 was acheived by a lmda = 0.1 and learningRate = 0.0001
+Accuracy (Logistic Loss):	0.823529411765
